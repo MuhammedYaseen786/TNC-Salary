@@ -5,7 +5,7 @@ from admin_panel import admin_panel_page
 st.set_page_config(
     page_title="Employee Management",
     layout="wide",
-    page_icon="👨‍💼"
+    page_icon="tnc-logo-1.png"
 )
 
 pg = st.navigation([
