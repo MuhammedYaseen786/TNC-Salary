@@ -3,7 +3,7 @@ from user_panel import view_employee_page
 from admin_panel import admin_panel_page
 
 st.set_page_config(
-    page_title="Employee Management",
+    page_title="TNC Staff Management",
     layout="wide",
     page_icon="tnc-logo-1.png"
 )
